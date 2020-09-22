@@ -12,6 +12,9 @@ body, html {
     align-items: center;
     justify-content: space-around;
 }
+.about-text {
+    margin-bottom: 5vh;
+}
 .heading {
     align-items: center;
     margin-top: 5%;
